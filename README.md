@@ -33,7 +33,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/IRS.git
+   git clone https://github.com/Bushra-Butt-17/IRS.git
    ```
 
 2. **Navigate into the Project Directory**:

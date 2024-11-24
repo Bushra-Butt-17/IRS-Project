@@ -97,7 +97,7 @@ You can modify the code inside the notebooks to test with different text files o
 We welcome contributions to improve the IRS project! If you would like to contribute, please follow these steps:
 
 1. **Fork the repository**: Click the "Fork" button in the top-right corner of this page.
-2. **Clone your fork**: `git clone https://github.com/your-username/IRS.git`
+2. **Clone your fork**: `git clone https://github.com/Bushra-Butt-17/IRS.git`
 3. **Create a new branch**:
    ```bash
    git checkout -b feature-xyz
@@ -131,13 +131,3 @@ GitHub: [Bushra-Butt-17](https://github.com/Bushra-Butt-17)
 Happy coding! 🚀
 ```
 
-### Key Enhancements:
-
-1. **Project Description**: A detailed description of the project and its purpose is provided at the start.
-2. **Clear Structure**: The repository's file structure is clearly outlined, with an explanation of each file and folder.
-3. **Step-by-Step Instructions**: Easy-to-follow steps for setting up and using the repository.
-4. **Example Code**: Sample code to demonstrate the usage of the notebooks.
-5. **Contributing**: Instructions for contributing to the project, making it open-source friendly.
-6. **License**: The MIT license section provides users with proper guidelines for using the repository.
-
-Make sure to adjust the sections like GitHub link, requirements, or specific algorithm explanations as per your actual implementation!

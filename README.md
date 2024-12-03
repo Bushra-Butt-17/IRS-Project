@@ -120,23 +120,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-🌟 Happy coding! 🚀
-
-We appreciate all contributions and suggestions for improvements!
-
-## License 📝
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## Contact 📧
-
-If you have any questions or suggestions, feel free to reach out to me!
-
-**Bushra**  
-Email: bsdsf21m020@pucit.edu.pk  
-GitHub: [Bushra-Butt-17](https://github.com/Bushra-Butt-17)
-
----
-
 Happy coding! 🚀
 
